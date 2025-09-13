@@ -1,5 +1,5 @@
 # Consultas SQL - Base de Empleados
-
+ 
 Proyecto profesional de consultas SQL usando **SQL Server Management Studio (SSMS)** con la base de datos **AdventureWorks2019**.
 
 ## 🎯 Objetivo
